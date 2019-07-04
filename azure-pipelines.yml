@@ -6,8 +6,11 @@
 trigger:
 - master
 
+# pool:
+#  vmImage: 'ubuntu-latest'
+
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: "macos-10.13"
 
 steps:
 - task: Maven@3
