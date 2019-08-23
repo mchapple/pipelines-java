@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/matthewchapple/pipelines-java/_apis/build/status/mchapple.pipelines-java?branchName=master)](https://dev.azure.com/matthewchapple/pipelines-java/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://dev.azure.com/matthewchapple/MGC/_apis/build/status/mchapple.pipelines-java?branchName=master)](https://dev.azure.com/matthewchapple/MGC/_build/latest?definitionId=8&branchName=master)
 
 # Contributing
 
