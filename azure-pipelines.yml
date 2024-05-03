@@ -21,7 +21,7 @@ strategy:
     windows:
       imageName: "windows-latest"
   maxParallel: 3
-
+# demo build for 3 image build
 pool:
   vmImage: $(imageName)
 
